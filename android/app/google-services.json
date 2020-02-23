@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "573441425313",
+    "firebase_url": "https://todo-idyllix.firebaseio.com",
+    "project_id": "todo-idyllix",
+    "storage_bucket": "todo-idyllix.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:573441425313:android:705e8857b1ed48afdc95e0",
+        "android_client_info": {
+          "package_name": "com.test.todo_idyllix"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "573441425313-b3i10nq4kaav59nmhg65csst0mcrbtrg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-tWHfHxAWv8TarICKh-RrZOKcueOerAw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "573441425313-b3i10nq4kaav59nmhg65csst0mcrbtrg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
